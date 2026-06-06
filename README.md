@@ -1,2 +1,30 @@
 # Animated-Counter
-A simple project that brings numbers to life with smooth animations, showing how small details can make an interface feel more engaging and polished.
+
+### ✨ About
+
+A simple but satisfying project where numbers come to life on screen. The kind of small detail that makes an interface feel polished and intentional — because good UI is all about how things feel, not just how they look.
+
+---
+
+### 💡 What i learned
+
+- JavaScript adds interactivity and brings projects to life beyond what HTML and CSS can do alone
+- Writing UI logic with React felt unusual at first, but it made the code more organized and easier to manage
+- Keeping files and components separated helps maintain a clean and scalable project structure
+- Using ``.gitignore`` prevents unnecessary files
+- Learned how concepts like functions, constants, imports, exports, animation frames, and math calculations work together to create smooth and reusable features.
+
+---
+
+### 🛠️ Built With
+
+- **JavaScript**: logic, hooks and animations
+- **JSX**: HTML and CSS written inside JavaScript
+- **React**: component structure and state management
+- **CSS**: styling and keyframe animations
+
+---
+
+### 🎬 Preview
+
+https://github.com/user-attachments/assets/244b7260-9ea7-49cb-8bdf-461b30db2d0d
