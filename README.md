@@ -6,8 +6,9 @@ A simple but satisfying project where numbers come to life on screen. The kind o
 
 ---
 
-## Project Structure
+### Project Structure
 
+```
 animated-counter/
 ├── public/
 │   ├── favicon.ico
@@ -20,6 +21,7 @@ animated-counter/
     ├── App.jsx
     ├── index.js
     └── useCounter.js
+```
 
 ---
 
