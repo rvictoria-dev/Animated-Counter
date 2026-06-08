@@ -6,7 +6,7 @@ A simple but satisfying project where numbers come to life on screen. The kind o
 
 ---
 
-### Project Structure
+### 📁 Project structure
 
 ```
 animated-counter/
