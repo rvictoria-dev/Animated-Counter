@@ -6,13 +6,20 @@ A simple but satisfying project where numbers come to life on screen. The kind o
 
 ---
 
-### 💡 What i learned
+## Project Structure
 
-- JavaScript adds interactivity and brings projects to life beyond what HTML and CSS can do alone
-- Writing UI logic with React felt unusual at first, but it made the code more organized and easier to manage
-- Keeping files and components separated helps maintain a clean and scalable project structure
-- Using ``.gitignore`` prevents unnecessary files
-- Learned how concepts like functions, constants, imports, exports, animation frames, and math calculations work together to create smooth and reusable features.
+animated-counter/
+├── public/
+│   ├── favicon.ico
+│   └── index.html
+└── src/
+    ├── components/
+    │   └── CounterCard.jsx
+    ├── styles/
+    │   └── App.css
+    ├── App.jsx
+    ├── index.js
+    └── useCounter.js
 
 ---
 
@@ -22,6 +29,16 @@ A simple but satisfying project where numbers come to life on screen. The kind o
 - **JSX**: HTML and CSS written inside JavaScript
 - **React**: component structure and state management
 - **CSS**: styling and keyframe animations
+
+---
+
+### 💡 What i learned
+
+- JavaScript adds interactivity and brings projects to life beyond what HTML and CSS can do alone
+- Writing UI logic with React felt unusual at first, but it made the code more organized and easier to manage
+- Keeping files and components separated helps maintain a clean and scalable project structure
+- Using ``.gitignore`` prevents unnecessary files
+- Learned how concepts like functions, constants, imports, exports, animation frames, and math calculations work together to create smooth and reusable features.
 
 ---
 
